@@ -1,4 +1,8 @@
 # CO2-Emission
+
+********* You must import CO2.new and CO2_transpose into your Jupyter environment First!
+
+
 I made a regression machine learning model for this data to predict CO2 emissions in the world with Scikit-learn and Neural Network in the JupyterLab environment.
 CO2 emissions (metric tons per capita)
 I made a regression machine learning model for this data to predict CO2 emissions in the world with Scikit-learn and Neural Network.
